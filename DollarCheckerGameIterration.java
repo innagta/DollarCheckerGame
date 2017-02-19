@@ -45,15 +45,7 @@ public class DollarCheckerGameIterration {
 		}
 		
 		System.out.println("The maximum amount that you have collected is: $" + sum);
-		
-		
-		
-		
-		
 	}
-	
-	
-	
 }
 
 
